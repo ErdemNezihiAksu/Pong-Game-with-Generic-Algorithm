@@ -1,4 +1,4 @@
-This is a generic AI model that learns how to play the famous game **Pong**.
+This is a genetic AI model that learns how to play the famous game **Pong**.
 
 # Pong Main.py
 This is the main file that you should run. By default, there are trained model's parameters in the best_ai.txt . So it is going to ask you whether you want to just play against it or train a new AI. If you choose to train, you will watch the training process, how AI models play the game against each other, and their overall score at each game. Running this file is enough to start the project.
